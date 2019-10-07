@@ -7,6 +7,9 @@ import java.util.*;
  */
 public class inputdata
 {
-    HashMap<String, String> h = new HashMap<String, String>();
+    public static void main(String[] args)
+    {
+        HashMap<String, String> h = new HashMap<String, String>();
+    }
     
 }
