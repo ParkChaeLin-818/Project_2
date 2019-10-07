@@ -8,12 +8,19 @@ import java.util.*;
 public class inputdata
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     public static void main(String args[]){
         HashMap<String, Integer> h = new HashMap<String, Integer>();
         
     }
 =======
     HashMap<String, String> h = new HashMap<String, String>();
+=======
+    public static void main(String[] args)
+    {
+        HashMap<String, String> h = new HashMap<String, String>();
+    }
+>>>>>>> 685d0037294295580b8eb4569ce7946d2242b2af
     
 >>>>>>> 4f45481a4dba2b1acf6d14a474b701fce37ef949
 }
