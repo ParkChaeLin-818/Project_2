@@ -1,4 +1,5 @@
 import java.util.*;
+import java.io.*;
 /**
  * 여기에 inputdata 클래스 설명을 작성하십시오.
  * 
@@ -7,20 +8,13 @@ import java.util.*;
  */
 public class inputdata
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    public static void main(String args[]){
-        HashMap<String, Integer> h = new HashMap<String, Integer>();
-        
-    }
-=======
-    HashMap<String, String> h = new HashMap<String, String>();
-=======
     public static void main(String[] args)
     {
         HashMap<String, String> h = new HashMap<String, String>();
+        
+        FileReader in = new FileReader("C:\\Temp\\inputData20191007.txt");
+        Scanner scanner = new Scanner(new FileReader(""));
+       
     }
->>>>>>> 685d0037294295580b8eb4569ce7946d2242b2af
-    
->>>>>>> 4f45481a4dba2b1acf6d14a474b701fce37ef949
+
 }
