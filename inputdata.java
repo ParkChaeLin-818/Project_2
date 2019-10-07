@@ -7,8 +7,13 @@ import java.util.*;
  */
 public class inputdata
 {
+<<<<<<< HEAD
     public static void main(String args[]){
         HashMap<String, Integer> h = new HashMap<String, Integer>();
         
     }
+=======
+    HashMap<String, String> h = new HashMap<String, String>();
+    
+>>>>>>> 4f45481a4dba2b1acf6d14a474b701fce37ef949
 }
